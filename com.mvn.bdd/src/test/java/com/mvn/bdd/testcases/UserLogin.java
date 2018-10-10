@@ -14,7 +14,7 @@ import cucumber.api.java.en.When;
 import webPages.HomePage;
 import webPages.LoginPage;
 
-public class SampleLogin extends Reports {
+public class UserLogin extends Reports {
 
 	@Given("^User is on Home Page$")
 	public void user_is_on_Home_Page() {
